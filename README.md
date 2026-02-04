@@ -15,7 +15,7 @@ Click on the template of your choice, and create your valentine pages under 1 mi
 
 
 # Demo
-Github Pages : https://made for shreya.github.io/will-you-be-my-valentine/
+Github Pages : https://made forshreya.github.io/will-you-be-my-valentine/
 
 
 # Description
